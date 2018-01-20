@@ -226,6 +226,31 @@ var data = [
   new Male("img/foto6.jpg", "Norman", "Rock", 36, "Male", 0, "img/like.png"),
   new Female("img/foto5.jpg", "Maxima", "Miu", 36, "Female", 0, "img/like.png"),
 
+  new Male("img/foto5.jpg", "Horsti", "Hahn", 22, "Male", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Gertschi", "Baum", 40, "Male", 0, "img/like.png"),
+  new Female("img/foto5.jpg", "Mati", "Muh", 26, "Female", 0, "img/like.png"),
+  new Female("img/foto5.jpg", "Sabi", "Babi", 28, "Female", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Wolfgang", "Cif", 32, "Male", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Chris", "Koch", 26, "Male", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Fabio", "Brz", 24, "Male", 0, "img/like.png"),
+
+  new Female("img/foto5.jpg", "Zuzu", "Mumu", 42, "Female", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Andi", "Kreuz", 42, "Malemale", 0, "img/like.png"),
+  new Female("img/foto5.jpg", "Edith", "Vando", 29, "Female", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Alex", "Fuschs", 23, "Male", 0, "img/like.png"),
+  new Female("img/foto5.jpg", "Sila", "Yeto", 26, "Female", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Talha", "dfhg", 27, "Male", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Hüsn", "Temo", 19, "Female", 0, "img/like.png"),
+  new Female("img/foto5.jpg", "Ebru", "Don", 18, "Female", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Matti", "Freud", 39, "Male", 0, "img/like.png"),
+
+  new Female("img/foto5.jpg", "Sladi", "Morki", 22, "Female", 0, "img/like.png"),
+  new Female("img/foto5.jpg", "Romi", "Gru", 38, "Female", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Orco", "Vuri", 19, "Male", 0, "img/like.png"),
+  new Male("img/foto5.jpg", "Tarek", "Düzo", 24, "Male", 0, "img/like.png"),
+  new Female("img/foto5.jpg", "Alice", "SChoko", 41, "Female", 0, "img/like.png"),
+  new Female("img/foto5.jpg", "Monika", "Benodi", 25, "Female", 0, "img/like.png"),
+
 ];
 
 
